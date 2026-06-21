@@ -56,4 +56,4 @@ Very large mazes can still place millions of blocks. Start with smaller
 ## License
 
 This project uses the license from
-https://github.com/SculkCatalystMC/ProxyPass/blob/main/LICENSE.
+[https://github.com/SculkCatalystMC/ProxyPass/blob/main/LICENSE.](https://github.com/Milvona/Maze/blob/main/LICENSE)
